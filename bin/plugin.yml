@@ -1,0 +1,5 @@
+name: UHCModifier
+main: fr.badblock.bukkit.games.uhcmodifier.UHCModifier
+version: 2.0
+authors: ['LeLanN']
+load: STARTUP
